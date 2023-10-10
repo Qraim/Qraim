@@ -17,8 +17,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qraim&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 Comment me joindre:
-- [LinkedIn]([votre_lien_linkedin](https://www.linkedin.com/in/quentin-raimbault-a373b8260/))
-- Email: quentin.raimbault49250@gmail.com
 
 Merci de visiter mon profil, n'hésitez pas à jeter un coup d'œil à mes projets! 👩‍💻🚀
