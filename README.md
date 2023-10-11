@@ -15,6 +15,6 @@
   
 ## 📈 Mes statistiques GitHub:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Qraim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qraim&show_icons=true)
 
 Merci de visiter mon profil, n'hésitez pas à jeter un coup d'œil à mes projets! 👩‍💻🚀
