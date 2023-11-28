@@ -13,8 +13,4 @@
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
   - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
   
-## 📈 Mes statistiques GitHub:
-
-![Qraim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qraim&show_icons=true)
-
 Merci de visiter mon profil, n'hésitez pas à jeter un coup d'œil à mes projets! 👩‍💻🚀
