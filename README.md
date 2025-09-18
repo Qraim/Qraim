@@ -1,6 +1,6 @@
 # Bonjour 👋 !
 
-🎓 Actuellement en Master d'informatique à l'Université d'Angers.
+🎓 Actuellement diplômé d'un Master d'informatique à l'Université d'Angers.
 
 💻 Passionné d'informatique et de développement, j'ai acquis des compétences dans plusieurs langages et technologies.
 
